@@ -22,13 +22,13 @@ repository               : "davinci254254/davinci254254.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Howard Hua"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Freshmen at Washington University in St. Louis"
+  location         : "Clayton, MO"
+  employer         : "Washington University in St. Louis"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "h.howard@wustl.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
