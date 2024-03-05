@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: https://github.com/davinci254254/resume/blob/85ce537fe2af43c521ec16f6a36c115224a7f782/howard_hua_resume.pdf
+    url: /files/howard_hua_resume.pdf
     
   #- title: "Guide"
   #  url: /markdown/
